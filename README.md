@@ -52,7 +52,7 @@ After running this command development server will start at : http://127.0.0.1:8
 copy-paste it on your browser to view the application.
 
 Glimpes of GUI : 
-
+![Screenshot (1222)](https://user-images.githubusercontent.com/42700950/85283041-52835480-b4aa-11ea-99d8-483da3d50180.png)
 
 Some points to take care of :
 I have defined backend function in views.py.
