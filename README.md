@@ -1,4 +1,4 @@
-# IROV ASSIGNMENT
+# EyeROV ASSIGNMENT
 
 ### Problem Statement
 #### Task:
