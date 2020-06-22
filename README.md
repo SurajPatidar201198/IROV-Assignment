@@ -54,5 +54,11 @@ copy-paste it on your browser to view the application.
 Glimpes of GUI : 
 ![Screenshot (1222)](https://user-images.githubusercontent.com/42700950/85283041-52835480-b4aa-11ea-99d8-483da3d50180.png)
 
+Ouput that we got after taking entries from the form :
+![99999](https://user-images.githubusercontent.com/42700950/85283719-72674800-b4ab-11ea-9c7e-a90861b641c3.PNG)
+
+Yellow shaded potion : First is input path, second is ouput path, third is cam true/false, fourth is visibility value and fifth is method used these are then passed in
+backend function defined in views.py of app1.
+
 Some points to take care of :
 I have defined backend function in views.py.
